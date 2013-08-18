@@ -1,0 +1,1 @@
+"Arkanoid me.exe" > wyj.txt
